@@ -1,13 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Asan Ороскулов](https://up.htmlacademy.ru/javascript/23/user/954513).
-* Наставник: `Неизвестно`.
-
----
-
-_Не удаляйте и не изменяйте самовольно файлы и папки:_
-_`.editorconfig`, `.eslintrc`, `.gitattributes`, `.gitignore`, `package-lock.json`, `package.json`., `.github`_
-
+* Наставник: `Ростислав Козленко'
 ---
 
 [Как работать с Git на проекте](Contributing.md) | [Как работать над проектом](Workflow.md)
