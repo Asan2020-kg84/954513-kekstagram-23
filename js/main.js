@@ -12,14 +12,13 @@ function getRandomIntInclusive(min, max) {
 console.log(getRandomIntInclusive(1,10));
 
 
-
-let comment = "ABCDEFGHIJKLMNOPQRSTUVWXYZfffffffffff";
-let check = function (length) {
-	if (comment.length < 140) {
+text = "ABCDEFGHIJKLMNOPQRSTUVWXYZfffffffffff";
+let check = function (comment, length) {
+	if (comment.length < length) {
     return true;
    } else {
-    console.log('длина комментария не может составлять больше 140 символов');
+    return false;
    }
 }
 
- check(comment.length);
+ check(text, 140);
